@@ -1,0 +1,3 @@
+[submodule "app/src/main/cpp/GBLib"]
+	path = app/src/main/cpp/GBLib
+	url = https://github.com/David-Parker/GBLib.git
